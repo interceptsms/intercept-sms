@@ -25,11 +25,17 @@ When a hacker gains access to the SS7 network, they can use it to:
 
 **Spoofing or Hijacking Numbers:** Attackers may impersonate legitimate users, sending fraudulent messages or making unauthorized calls.
 
+<a href="https://t.me/intercept_sms_bot"><img src="https://i.ibb.co/jbDtZbJ/intercept-sms.png" alt="intercept sms" border="0"></a>
 
 ## How to Access it Intercept SMS Server?
 No-Logging Intercept SMS Server for Ready to SS7 Attacks with Automated One-Click SMS Sniffing on Telegram Bot for more security. \
-Access Link: <a href="https://t.me/intercept_sms_bot">Intercept SMS Telegram Bot</a> 
+**Access Link:** https://t.me/intercept_sms_bot
 
+**Periods - Prices** \
+_7 DAYS - $199_ \
+_15 DAYS - $299_ \
+_1 MONTH - $399_ \
+_3 MONTH - $999_
 
 ## Why Are SS7 Attacks a Serious Threat?
 Although SS7 attacks are not as commonly discussed as other types of hacking, they pose a significant threat for several reasons: \
